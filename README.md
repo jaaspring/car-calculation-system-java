@@ -1,4 +1,4 @@
-# Car Calculation System (Java)
+# Car Loan Calculation System (Java)
 
 A comprehensive Java-based desktop application for car management, comparison, and loan calculation. This system is designed to streamline the process of viewing car details, managing inventory, and helping users make informed decisions about car purchases.
 
